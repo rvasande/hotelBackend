@@ -1,0 +1,9 @@
+instructions how to run the project locally.
+
+commands
+1. run project = node/nodemon server.js
+2. quick setup of database = npm run data:import
+3. clear database = npm run data:destroy
+4. set database name as "hotelMgmt"
+5. jwt authentication key = abc123
+6. test all api in postman
